@@ -1,2 +1,4 @@
-ERNP05={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 1, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
+ERNP05={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://eventos.ucf.edu.cu/', 'moodle_repo_id': 4, 'moodle_user': 'ernp_05', 'moodle_password': 'Eddy_0000', 'isadmin': 1, 'zips': 29, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
 JesusLivan={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 1, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
+ERNP05={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://eventos.ucf.edu.cu/', 'moodle_repo_id': 4, 'moodle_user': 'ernp_05', 'moodle_password': 'Eddy_0000', 'isadmin': 1, 'zips': 29, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
+
